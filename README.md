@@ -1,6 +1,6 @@
 # KeepFit
 
-The app is currently being rewritten using modern Android development techniques in Kotlin. The full new codebase will be re-uploaded shortly.
+The app is currently being rewritten using modern Android development techniques in Kotlin. The full new codebase will be reuploaded shortly.
 
 Screenshots
 
